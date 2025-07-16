@@ -35,10 +35,10 @@ Welcome to my GitHub portfolio! I'm passionate about leveraging AI and data scie
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Libraries**: Python, SQL, Java (basic), Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow
+- **Languages & Libraries**: Python, SQL, Java, Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow
 - **Visualization**: Power BI, Streamlit, Seaborn
 - **Model Deployment**: Streamlit, CLI tools
-- **Others**: Git, GitHub, Jupyter, VSCode, Docker (basic), Linux terminal
+- **Others**: Git, GitHub, Jupyter, VSCode, Docker ,MLFlow, Grafana, Linux terminal
 
 
 ## 🏆 Achievement
