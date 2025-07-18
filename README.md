@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I'm passionate about leveraging AI and data scie
 - Deployed prediction interface via Streamlit and CLI tool.
 
 ### 🔹 [🎓 Student Dropout Prediction](https://github.com/dk1781/studentdropoutpredictive)
-- Built a classification model to identify at-risk students using demographic and performance data.
+- Built a classification model to identify at-risk students.
 - Integrated insights into a visual dashboard to assist education stakeholders.
 
 ### 🔹 [📱 App Sentiment Analysis - Google Play Store](https://github.com/dk1781/CapcutAppReview_SentimentAnalysist)
