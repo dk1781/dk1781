@@ -3,14 +3,13 @@
 
 **AI Engineer | Data Scientist | Mathematics Graduate**
 
-Welcome to my GitHub portfolio! I'm passionate about leveraging AI and data science to solve real-world problems. With a background in mathematics and experience in building machine learning solutions from end to end, I’ve developed several impactful projects including recommendation systems, predictive analysis, and sentiment classification.
-
+Welcome to my GitHub portfolio! I'm passionate about leveraging AI and data science to solve real-world problems. With a background in mathematics and experience in building machine learning solutions from end to end, I’ve developed several impactful projects including recommendation systems, predictive analysis, and sentiment analysis.
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 [📚 Book Recommendation System](https://github.com/dk1781/bookrecomendationsystem)
-- Built using **content-based filtering (TF-IDF)** and **collaborative filtering (matrix factorization)**.
+- Built using **content-based filtering (TF-IDF)** and **collaborative filtering**.
 - Processed 1M+ book ratings.
 - Delivered personalized top-10 recommendations.
 - Deployed via Streamlit.
@@ -36,7 +35,7 @@ Welcome to my GitHub portfolio! I'm passionate about leveraging AI and data scie
 ## 🛠️ Skills & Tools
 
 - **Languages & Libraries**: Python, SQL, Java, Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow
-- **Visualization**: Power BI, Streamlit, Seaborn
+- **Visualization**: Power BI, Streamlit, Seaborn, Looker Studio
 - **Model Deployment**: Streamlit, CLI tools
 - **Others**: Git, GitHub, Jupyter, VSCode, Docker ,MLFlow, Grafana, Linux terminal
 
